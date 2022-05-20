@@ -1,4 +1,4 @@
-let Luis = 5; 
+
 let name = "Luis"; 
 
 
